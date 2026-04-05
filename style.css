@@ -1,0 +1,25 @@
+header{
+    background-color: hsl(300, 90%, 15%);
+    color: #fff;
+    font-size: small
+    
+}
+h3{
+    background-attachment: rgb(195, 141, 195);
+}
+h2{
+    background-color:#6b2176;
+    color: white;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+body{
+    background-color: #d1c1da;
+}
+nav{
+    float: right;
+}
